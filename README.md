@@ -8,6 +8,6 @@ This is my first commit
 
 ```
 function first() {
-    console.log("hello world")
+    console.log("My first Project")
 }
 ```
